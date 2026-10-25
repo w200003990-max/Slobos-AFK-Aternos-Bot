@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "escolar.aternos.host:25058",
+    "port": 25058,
     "version": "",
     "try-creative": false
   },
